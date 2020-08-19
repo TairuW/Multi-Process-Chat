@@ -1,2 +1,2 @@
 # Multi-Process-Chat
-a local multi-party chat application 
+Local multi-party chat application
